@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, Gary Maxwell here...
+
+I'm a legacy embedded firmware developer who has been branching into additional full stack roles as my company pares back personnel.
+
+So, after several lifetimes of assembly code, C, and Makefiles, I've been working with Virtualbox/VMware, Jenkins, JavaScript, Node.js, and anything else my employer requires.
+
+Although I prefer Windows as my primary development platform, I typically have several SSH sessions to various Linux boxes used to build anything from ARM firmware to FreeSwitch applications.
+
+Here on GitHub, I'm really just trolling around for great ideas, projects, and people. Thanks for reading this far!
+
+(Currently not looking for other opportunities.)
 
 <!--
 **gmaxwell447/gmaxwell447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
