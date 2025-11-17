@@ -2,7 +2,7 @@
 
 I'm a legacy embedded firmware developer and driver writer who has been branching into additional full stack roles as my company pares back personnel.
 
-So, after several lifetimes of assembly code, C, Makefiles, Windows DDKs and Registry hacking, I've been working with Virtualbox/VMware, Jenkins, JavaScript, Node.js, and anything else my employer requires.
+So, after several lifetimes of assembly code, C, Makefiles, Windows DDKs and Registry hacking, I'm getting into production .NET projects, KVM/libvirt, Podman, Ansible, Kubernetes, etc. etc.
 
 Although I prefer Windows as my primary development platform, I typically have several SSH sessions to various Linux boxes used to build anything from ARM firmware to FreeSwitch applications.
 
